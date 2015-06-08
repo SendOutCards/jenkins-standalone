@@ -23,6 +23,7 @@ JENKINS_PLUGINS=(
     "script-security/1.13"
     "ssh-credentials/1.10"
     "token-macro/1.10"
+    "bitbucket-pullrequest-builder/1.4.5"
 )
 
 JENKINS_WAR_MIRROR="http://mirrors.jenkins-ci.org/war-stable"
